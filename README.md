@@ -1,1 +1,1 @@
-# https-github.com-msu-bit-chitlada-63010914608-msu-mbs-bit-cloud-lab02
+msu-mbs-bit-cloud-lab02
